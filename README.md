@@ -2,14 +2,9 @@
 <p align='center'>
   <img src="https://github.com/77AXEL/NetDisco/blob/main/images/logo3.png"></img>
 </p>
-<p align='center'>
-    <img src="https://img.shields.io/badge/NetDisco-bg?style=for-the-badge;"></img>
-</p>
-<p align='center'>
-  <img src="https://img.shields.io/badge/Author-A.X.E.L-red?style=flat-square;"></img>
-</p>
-<p align='center'>
-    <img src="https://img.shields.io/badge/DISCLAIMER-purple?style=for-the-badge;"></img>
+
+
+
 
 #### Presentation:
 - In case you want to see all the devices connected to your Wi-Fi, you can use this tool
@@ -26,12 +21,15 @@
 - **`Windows`**
 - > Click here <a href='https://github.com/7AXEL/NetDisc/raw/main/NetDisc.exe?download='>Download</a>
 - **`Linux`**
-- > You can can use wine and run the <a href='https://github.com/77AXEL/NetDisco/raw/main/NetDisc.exe?download='>NetDisk.exe</a>:
+- > You can can use wine and run the <a href='https://github.com/77AXEL/NetDisco/raw/main/NetDisco.exe?download='>NetDisco.exe</a>:
 ```
-sudo wine NetDisk.exe
+sudo wine NetDisco.exe
 ```
 
 #### Supported platforms:
 > Supported Platform : **`Windows`**, **`Ubuntu/Debian/Kali/Parrot/Arch Linux`**<br>
 <hr>
-</p>
+
+<img src="https://img.shields.io/badge/Author:-A.X.E.L-bg?style=for-the-badge;"></img>
+<img src="https://img.shields.io/badge/Open source:-Yes-bg?style=for-the-badge;"></img>
+
