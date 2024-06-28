@@ -19,7 +19,7 @@
 
 #### Download:
 - **`Windows`**
-- > Click here <a href='https://github.com/7AXEL/NetDisc/raw/main/NetDisc.exe?download='>Download</a>
+- > Click here <a href='https://github.com/77AXEL/NetDisco/raw/main/NetDisco.exe?download='>Download</a>
 - **`Linux`**
 - > You can can use wine and run the <a href='https://github.com/77AXEL/NetDisco/raw/main/NetDisco.exe?download='>NetDisco.exe</a>:
 ```
